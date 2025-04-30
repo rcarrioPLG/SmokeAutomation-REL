@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pendiente Aprobacin_ui-chkbox-box ui-widget ui-corner-all ui-state-default</name>
+   <tag></tag>
+   <elementGuidId>03b74750-f4d5-4ee2-bd33-567f71739ec1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-chkbox-box.ui-widget.ui-corner-all.ui-state-default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-0-content']/div/div[2]/p-table/div/div/table/tbody/tr/td[14]/p-checkbox/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8cd3779f-dcff-40e8-84b6-f784f4a06ad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>99845cd0-ceab-42d0-a25b-323974134c8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-chkbox-box ui-widget ui-corner-all ui-state-default</value>
+      <webElementGuid>a5c3f4e3-ecd6-4c80-8494-ec3b4092121a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-0-content&quot;)/div[@class=&quot;ui-panel-content ui-widget-content ng-tns-c67-1&quot;]/div[@class=&quot;ui-g ng-tns-c67-1&quot;]/p-table[1]/div[@class=&quot;ui-table ui-widget ui-table-resizable ui-table-resizable-fit ui-table-auto-layout&quot;]/div[@class=&quot;ui-table-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;ng-star-inserted&quot;]/p-checkbox[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ui-chkbox ui-widget&quot;]/div[@class=&quot;ui-chkbox-box ui-widget ui-corner-all ui-state-default&quot;]</value>
+      <webElementGuid>00ab389a-01cf-4d47-ae1f-16e7d2c0d9a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Administrador/iframe_Nmina Remates_WIN_Garantia2554_IFrame</value>
+      <webElementGuid>28c5f49c-c3b9-439b-ad6b-0e16017a12a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-0-content']/div/div[2]/p-table/div/div/table/tbody/tr/td[14]/p-checkbox/div/div[2]</value>
+      <webElementGuid>5d41a1db-d42b-437d-aa2b-6a2dbc87988c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendiente Aprobación'])[1]/following::div[3]</value>
+      <webElementGuid>5e50fb33-af67-48ff-968b-f83688f61938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Juan Fulano Fulano'])[1]/following::div[3]</value>
+      <webElementGuid>76dd77c5-b17a-4b41-b82f-8539539c77bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archivos'])[2]/preceding::div[1]</value>
+      <webElementGuid>624e1676-028c-403f-85ee-e64ed1e95587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='juan juan juan'])[1]/preceding::div[1]</value>
+      <webElementGuid>5c15defe-541f-424b-8bdf-fe7b10d9b5a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-checkbox/div/div[2]</value>
+      <webElementGuid>85efd477-533c-4170-8066-2a3cc252bedb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

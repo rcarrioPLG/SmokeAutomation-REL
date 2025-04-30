@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Desactivar_Lote</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9354bd06-b476-40dc-aa60-6c56a102b4ea</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>954fc93a-8ef6-4c07-9246-7f5e82fea0e7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc8e39aa-0c74-451b-9b13-2cf904b5baa5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'jmonardes'</defaultValue>
+      <description></description>
+      <id>954fc93a-8ef6-4c07-9246-7f5e82fea0e7</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>'BKBnoERvCkg='</defaultValue>
+      <description></description>
+      <id>cc8e39aa-0c74-451b-9b13-2cf904b5baa5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

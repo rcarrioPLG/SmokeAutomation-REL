@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Activar_Lote</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50054322-8c05-4d42-9ac7-4089e2569337</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3a256b78-db8d-4f5c-97e0-3d42c84525f3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>36d20a84-c022-47ad-a4ce-926688029861</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'jmonardes'</defaultValue>
+      <description></description>
+      <id>3a256b78-db8d-4f5c-97e0-3d42c84525f3</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>'BKBnoERvCkg='</defaultValue>
+      <description></description>
+      <id>36d20a84-c022-47ad-a4ce-926688029861</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

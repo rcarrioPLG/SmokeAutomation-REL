@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Imagenes del Lote -_img-thumbnail produ_1d5716</name>
+   <tag></tag>
+   <elementGuidId>0e0f8d44-66f6-408e-8501-502db5707f6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://qaplg.plataformagroup.cl/qa_rel_vacio_04/remates/2548/638814415988378721_Lote_73916.jpg')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>48d536be-f0f7-47be-a61e-2a1f77d55126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-thumbnail product-image</value>
+      <webElementGuid>1dcf1436-c83b-425a-859c-f5199251778f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-src</name>
+      <type>Main</type>
+      <value>https://qaplg.plataformagroup.cl/qa_rel_vacio_04/remates/2548/638814415988378721_Lote_73916.jpg</value>
+      <webElementGuid>cbfbd823-5ef4-4657-9cc6-99b4815c7c5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://qaplg.plataformagroup.cl/qa_rel_vacio_04/remates/2548/638814415988378721_Lote_73916.jpg</value>
+      <webElementGuid>11e3037b-8610-4a53-be81-1732c604cbad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;backgroundsize bgpositionshorthand bgpositionxy bgrepeatround bgrepeatspace bgsizecover borderradius cssanimations csscalc csstransforms supports csstransforms3d csstransitions no-flexboxtweener fontface inlinesvg localstorage multiplebgs preserve3d sessionstorage smil svgclippaths svgfilters svgforeignobject canvas todataurljpeg todataurlpng todataurlwebp&quot;]/body[1]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-wrapper ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body&quot;]/fieldset[@class=&quot;ng-scope&quot;]/div[@class=&quot;row justify-content-center ng-pristine ng-untouched ng-valid ng-isolate-scope ui-sortable ng-not-empty&quot;]/div[@class=&quot;col-md-2 ng-scope ui-sortable-handle&quot;]/div[@class=&quot;product&quot;]/a[1]/img[@class=&quot;img-thumbnail product-image&quot;]</value>
+      <webElementGuid>1113315d-c9bc-4068-980b-028009a607a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Administrador/iframe_concat(Imagenes de Lote N1 - , , BICICLETA, , )_ext-element-64</value>
+      <webElementGuid>b13cbd8f-6fa2-4196-8acb-e7df09dbf248</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://qaplg.plataformagroup.cl/qa_rel_vacio_04/remates/2548/638814415988378721_Lote_73916.jpg')]</value>
+      <webElementGuid>0903c9c1-9bad-458f-b2a9-ce63395bc21b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a/img</value>
+      <webElementGuid>037b41cc-dac6-497f-a3a1-83e3bf67b96d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://qaplg.plataformagroup.cl/qa_rel_vacio_04/remates/2548/638814415988378721_Lote_73916.jpg']</value>
+      <webElementGuid>d8f667ec-e557-4309-b481-a5ce833661f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

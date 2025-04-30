@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cargar_Imagen_Lote</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>22161044-3fc6-4bba-8042-820b11ba0d11</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3442e0f9-bc69-4c9a-9974-73f48f01d83c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc3c4201-3ad5-42a2-9302-6b3f0d3661ad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'jmonardes'</defaultValue>
+      <description></description>
+      <id>3442e0f9-bc69-4c9a-9974-73f48f01d83c</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>'BKBnoERvCkg='</defaultValue>
+      <description></description>
+      <id>fc3c4201-3ad5-42a2-9302-6b3f0d3661ad</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Linkify</name>
+   <tag></tag>
+   <elementGuidId>e4e91d24-d213-4b94-909d-152de5add86c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='boundlist-1144-listEl']/li/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.x-combo-list-item.x-mcombo-item-unchecked</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e9587184-588e-4db3-8e74-8eb8430eec3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-combo-list-item x-mcombo-item-unchecked</value>
+      <webElementGuid>58fc7659-c61c-409c-943b-9040c23b4b42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Linkify</value>
+      <webElementGuid>bbcaedf6-082c-48ae-8f8e-671f3dc26b47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boundlist-1144-listEl&quot;)/li[@class=&quot;x-boundlist-item x-boundlist-item-over&quot;]/div[@class=&quot;x-combo-list-item x-mcombo-item-unchecked&quot;]</value>
+      <webElementGuid>641b2979-5818-41fc-8e0b-7c5efffb88d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Administrador/iframe_Agregar Remate_WIN_Agregar_IFrame</value>
+      <webElementGuid>c08255e5-73c1-4a62-9c05-7008466ad309</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='boundlist-1144-listEl']/li/div</value>
+      <webElementGuid>102c51ae-f32a-4217-afc0-f81b8adab4e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free Minor Version Upgrades Included!'])[1]/following::div[4]</value>
+      <webElementGuid>6feeaf5a-b5b2-4b0a-83e1-e803841ac72b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PURCHASE LICENSE'])[1]/following::div[5]</value>
+      <webElementGuid>07c95feb-4b91-40a5-a8f8-179da94975b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Getnet'])[1]/preceding::div[2]</value>
+      <webElementGuid>d5b18a7f-24cd-471b-85b5-8f3149d9bb48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div</value>
+      <webElementGuid>25fa02e0-3251-4147-aa79-133dc80e0952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Linkify' or . = 'Linkify')]</value>
+      <webElementGuid>210335e6-5fe4-43e5-aceb-fb5f27cb6c92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cambiar_Minimo_Lote</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>376054f9-fc39-424d-bc19-b82ce9396e0e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>42d81e70-8615-44eb-812f-200df81488d3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c44d344d-6672-4f81-b99a-dc4461ddb3b0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'jmonardes'</defaultValue>
+      <description></description>
+      <id>42d81e70-8615-44eb-812f-200df81488d3</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>'BKBnoERvCkg='</defaultValue>
+      <description></description>
+      <id>c44d344d-6672-4f81-b99a-dc4461ddb3b0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

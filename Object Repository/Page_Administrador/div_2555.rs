@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_2555</name>
+   <tag></tag>
+   <elementGuidId>f80cf969-d7b6-4e4e-b721-34f357a3705f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.x-grid-cell.x-grid-td.x-grid-cell-gridcolumn-1013.x-unselectable.x-grid-item-focused > div.x-grid-cell-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='gridview-1031-record-28']/tbody/tr/td[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2d63fcb6-771b-4e63-a13f-be537dc6a055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>56bef9e3-8791-441b-a371-179e820879b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-grid-cell-inner </value>
+      <webElementGuid>89d36cf5-bfa1-4e03-820c-142226e8a687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2555</value>
+      <webElementGuid>bc38cdfc-69ff-4aa9-b246-b7216f7774ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gridview-1031-record-28&quot;)/tbody[1]/tr[@class=&quot;x-grid-row&quot;]/td[@class=&quot;x-grid-cell x-grid-td x-grid-cell-gridcolumn-1013 x-unselectable x-grid-item-focused&quot;]/div[@class=&quot;x-grid-cell-inner&quot;]</value>
+      <webElementGuid>60ad39fd-e425-42ef-8004-847ef1fa29f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Administrador/iframe_Nmina Remates_WIN_NMREM_IFrame_1</value>
+      <webElementGuid>0c2708b9-3a2c-466d-a509-5b82c80fc604</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='gridview-1031-record-28']/tbody/tr/td[3]/div</value>
+      <webElementGuid>4372ffc3-74e0-4c05-acdb-138beec8945e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opciones'])[5]/following::div[1]</value>
+      <webElementGuid>c0afefb6-3320-408c-bd5b-bf0ae9159721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO PUBLICADO'])[2]/following::div[11]</value>
+      <webElementGuid>d95d60f6-c46a-4462-ac32-358ac65a7406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CREACION NUEVO REMATE 2 AUTOMATIZADO -NO ENTRAR-'])[2]/preceding::div[1]</value>
+      <webElementGuid>dc598184-9091-404a-aa07-34817519fd49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ganado'])[4]/preceding::div[2]</value>
+      <webElementGuid>3f9d5d0f-ee2f-4100-8c23-83c3d70c7d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2555']/parent::*</value>
+      <webElementGuid>4aac1a9b-c17f-481a-a19b-eced61597a36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[4]/tbody/tr/td[3]/div</value>
+      <webElementGuid>742b7d75-6809-4aff-a01a-3a6254560f41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2555' or . = '2555')]</value>
+      <webElementGuid>15031310-eb8f-417a-a1c0-0739158c9f5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

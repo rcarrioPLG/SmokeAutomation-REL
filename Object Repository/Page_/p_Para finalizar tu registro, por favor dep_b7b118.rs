@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Para finalizar tu registro, por favor dep_b7b118</name>
+   <tag></tag>
+   <elementGuidId>4de6ff80-4b22-4a72-b5bf-32eac5063b14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='id_body']/div/div[2]/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.ng-binding</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cc8ec5cb-8730-4679-bf76-60b203d73d4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>mensajePagarGarantia</value>
+      <webElementGuid>97ca483f-856d-4347-a829-8db7dbe8596b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>7cde501c-3b40-4295-8be4-fae2b18b2d01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Para finalizar tu registro, por favor deposita la cantidad de ARS 1.000.000.00000 como garantía vía Echeq.</value>
+      <webElementGuid>8eef9f00-817e-4f77-a2fe-a7bbc6c28dad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id_body&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;jumbotron text-center&quot;]/div[@class=&quot;ng-scope&quot;]/p[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>368cb016-87d9-4636-b416-fbb150b8e0a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='id_body']/div/div[2]/div[2]/div/p</value>
+      <webElementGuid>57fe805b-ed4b-444b-a2bd-24f5deee615c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remate en Línea'])[1]/following::p[1]</value>
+      <webElementGuid>ad7a857e-f0ca-42be-972b-e2008ed696fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cargue su comprobante en PDF del Echeq.'])[1]/preceding::p[2]</value>
+      <webElementGuid>51908a97-6bf0-467d-8b71-ef21dec97131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guardar Comprobante(s)'])[1]/preceding::p[2]</value>
+      <webElementGuid>345f11b3-7274-4387-a2b5-b2e967a3b6c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Para finalizar tu registro, por favor deposita la cantidad de ARS 1.000.000.00000 como garantía vía Echeq.']/parent::*</value>
+      <webElementGuid>ac0e04b6-d6fd-47e8-bf8a-f9eff6a7629d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>5aa47b42-190d-4702-8b38-e52c28957dd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Para finalizar tu registro, por favor deposita la cantidad de ARS 1.000.000.00000 como garantía vía Echeq.' or . = 'Para finalizar tu registro, por favor deposita la cantidad de ARS 1.000.000.00000 como garantía vía Echeq.')]</value>
+      <webElementGuid>f702256e-7d4f-466d-9220-1de19cb8f858</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

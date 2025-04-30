@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_El registro ha sido modificado correctamente</name>
+   <tag></tag>
+   <elementGuidId>df69097f-e704-4455-9ce8-4076ea9e99b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#messagebox-1001-msg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='messagebox-1001-msg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>da93d5b3-03bc-429e-b671-403799504fa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-component x-window-text x-box-item x-component-default</value>
+      <webElementGuid>cdcd998f-15ff-4d4f-9d13-e7d13123415d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>messagebox-1001-msg</value>
+      <webElementGuid>fd6a423a-6eae-4c51-bc8a-bb2e987b908d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El registro ha sido modificado correctamente.</value>
+      <webElementGuid>943a0ec9-ff57-475e-89c6-e7c001ab1b55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;messagebox-1001-msg&quot;)</value>
+      <webElementGuid>e4eb7b4a-ad46-40ab-889c-f49d6bba765e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Administrador/iframe</value>
+      <webElementGuid>e9aa5324-ab8b-4993-bdd7-106609cd7ca5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='messagebox-1001-msg']</value>
+      <webElementGuid>2c6415d6-f3a8-463e-ae41-f7ad25a45b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container-1003-targetEl']/div</value>
+      <webElementGuid>a28c26ac-57b3-437f-a7dd-0fc54359e034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mensaje'])[1]/following::div[12]</value>
+      <webElementGuid>3c73f7dd-a0ca-4b77-a2e5-dc6acc10598b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coordenadas'])[1]/following::div[19]</value>
+      <webElementGuid>68c3c803-b58f-4f4f-af42-e845c547ebf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aceptar'])[1]/preceding::div[18]</value>
+      <webElementGuid>ea439ae2-a4c5-4058-a2b0-de290b171376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sí'])[1]/preceding::div[18]</value>
+      <webElementGuid>158feed5-cef9-40d6-a9c3-5c8b95f51557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El registro ha sido modificado correctamente.']/parent::*</value>
+      <webElementGuid>14e84907-7742-4713-85d4-0914da69614f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>bd60ac92-e8a0-4777-9b74-e802faf9b3d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'messagebox-1001-msg' and (text() = 'El registro ha sido modificado correctamente.' or . = 'El registro ha sido modificado correctamente.')]</value>
+      <webElementGuid>6f57d4a6-a5b5-44dc-b28e-c4d038e2ee8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

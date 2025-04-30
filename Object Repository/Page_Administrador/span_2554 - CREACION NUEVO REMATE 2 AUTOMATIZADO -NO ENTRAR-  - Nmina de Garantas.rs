@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2554 - CREACION NUEVO REMATE 2 AUTOMATIZADO -NO ENTRAR-  - Nmina de Garantas</name>
+   <tag></tag>
+   <elementGuidId>66dcc218-d0ea-4bb8-ab50-205646f27943</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.font-weight-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-0-titlebar']/p-header/remate-header/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2cf5fb55-e64f-4a5a-954f-4c7213ce99d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-bold</value>
+      <webElementGuid>ccbe4d8c-506f-45f5-a8f1-8dbf1a2042d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2554 - CREACION NUEVO REMATE 2 AUTOMATIZADO -NO ENTRAR-  - Nómina de Garantías</value>
+      <webElementGuid>eb3edbdd-593e-4000-8179-831b159c7cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-0-titlebar&quot;)/p-header[@class=&quot;ng-tns-c67-1&quot;]/remate-header[1]/span[@class=&quot;font-weight-bold&quot;]</value>
+      <webElementGuid>f74ebe81-448b-45f9-bfc2-0264a574913f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Administrador/iframe_Nmina Remates_WIN_Garantia2554_IFrame_1</value>
+      <webElementGuid>236afdf8-20d0-4e85-8307-a8d0d8a5967d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-0-titlebar']/p-header/remate-header/span</value>
+      <webElementGuid>f6b502df-65ce-40f8-b374-20ed431a8686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actualizar'])[1]/preceding::span[2]</value>
+      <webElementGuid>f8679c28-c402-4aa7-85eb-19ac9fbec7a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descargar'])[1]/preceding::span[4]</value>
+      <webElementGuid>4a7f46be-f3ac-40d8-aa6b-c039cc25faec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>7befad15-7136-473b-9e9a-fc20235e21f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2554 - CREACION NUEVO REMATE 2 AUTOMATIZADO -NO ENTRAR-  - Nómina de Garantías' or . = '2554 - CREACION NUEVO REMATE 2 AUTOMATIZADO -NO ENTRAR-  - Nómina de Garantías')]</value>
+      <webElementGuid>4863d928-fae2-44d5-8040-63d34fc61b02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

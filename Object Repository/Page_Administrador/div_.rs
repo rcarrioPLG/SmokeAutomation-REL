@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>87e885eb-7915-4544-83e1-d843552a62f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='gridview-1105-record-152']/tbody/tr/td/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.x-grid-cell.x-grid-td.x-grid-cell-gridcolumn-1140.x-grid-cell-special.x-grid-cell-row-checker.x-grid-cell-first.x-unselectable.x-grid-item-focused > div.x-grid-cell-inner > div.x-grid-row-checker</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e22bbb3-216f-4e53-9a51-f8b4ffcb9258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-grid-row-checker</value>
+      <webElementGuid>c2ac94f9-1e41-4d1f-ab2d-99c67d235883</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>b11523bf-cbed-46f7-98a1-a0d6cb51c414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>9a7ef7ec-535e-4d31-afdd-5fd8cb6133b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gridview-1105-record-152&quot;)/tbody[1]/tr[@class=&quot;x-grid-row&quot;]/td[@class=&quot;x-grid-cell x-grid-td x-grid-cell-gridcolumn-1140 x-grid-cell-special x-grid-cell-row-checker x-grid-cell-first x-unselectable x-grid-item-focused&quot;]/div[@class=&quot;x-grid-cell-inner&quot;]/div[@class=&quot;x-grid-row-checker&quot;]</value>
+      <webElementGuid>3b36d41a-142f-4e78-b49c-236faa1a9d87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Administrador/iframe_Agregar Remate_WIN_Agregar_IFrame</value>
+      <webElementGuid>da7f69dc-a5f5-4df7-9c30-38c0f548e98f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='gridview-1105-record-152']/tbody/tr/td/div/div</value>
+      <webElementGuid>fa449592-56fd-43c2-8c1d-99cdbfd43ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='eguaman'])[1]/following::div[2]</value>
+      <webElementGuid>5581092c-1689-4343-b08a-d823cc997146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jose Emilio Monardes Godoy'])[1]/preceding::div[2]</value>
+      <webElementGuid>4d36978e-71dc-4e65-aa2a-8c924e8f5aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jmonardes'])[1]/preceding::div[3]</value>
+      <webElementGuid>6af89166-dff1-4ca1-b0c0-b0ff54d26d03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div/div/div/div[3]/div/div[2]/table[4]/tbody/tr/td/div/div</value>
+      <webElementGuid>9315bd3e-5192-43b0-9d45-f27d611f9442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>32c35294-03b9-4963-a428-700581966f93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

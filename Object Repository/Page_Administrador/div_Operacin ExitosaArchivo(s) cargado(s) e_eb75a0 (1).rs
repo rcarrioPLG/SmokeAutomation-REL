@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Operacin ExitosaArchivo(s) cargado(s) e_eb75a0 (1)</name>
+   <tag></tag>
+   <elementGuidId>129c6474-4f05-4ca8-9082-fc74eecae271</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.toast.ng-scope.toast-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//em[contains(@class, 'fa fa-check fa-fw')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e3ebfdeb-5036-418f-b57b-7b8bb28b410a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>toaster in toasters</value>
+      <webElementGuid>d4c67216-0562-4f00-a270-b9894ab07105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast ng-scope toast-success</value>
+      <webElementGuid>019f4fc0-67b2-4ff6-a7e9-abce3ca3e4b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>toaster.type</value>
+      <webElementGuid>b34b356f-3eb8-4874-8a95-ae72ed80b2c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>click($event, toaster)</value>
+      <webElementGuid>32a9c21f-b990-4240-98d4-74553fb56075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-mouseover</name>
+      <type>Main</type>
+      <value>stopTimer(toaster)</value>
+      <webElementGuid>b11ca3ba-5a49-4fcb-b6c1-0d2318762455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-mouseout</name>
+      <type>Main</type>
+      <value>restartTimer(toaster)</value>
+      <webElementGuid>a406c937-4792-47dd-b36f-52d6775d8e8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×Operación Exitosa!Archivo(s) cargado(s) exitosamente.</value>
+      <webElementGuid>240b1a97-34e9-4b7a-8002-53d5bd5e7051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;toast ng-scope toast-success&quot;]</value>
+      <webElementGuid>c09f6e73-c314-46f1-9f89-430c7b8eb3be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Administrador/iframe_concat(Imagenes de Lote N1 - , , BICICLETA, , )_ext-element-64</value>
+      <webElementGuid>90a038cd-46bd-48a5-8353-5d9932ef7a6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div</value>
+      <webElementGuid>96f96e49-4a62-4725-a931-cd1ab4760d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guardar Video'])[1]/following::div[4]</value>
+      <webElementGuid>4ad72b4e-0a1e-41c7-89fd-b3f1e151707b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>d1dc1441-287c-4df8-82bc-a38696e3a3ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '×Operación Exitosa!Archivo(s) cargado(s) exitosamente.' or . = '×Operación Exitosa!Archivo(s) cargado(s) exitosamente.')]</value>
+      <webElementGuid>d2066b12-cae6-448b-aa69-0140dc4bf0d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

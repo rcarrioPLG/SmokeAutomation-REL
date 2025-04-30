@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Getnet</name>
+   <tag></tag>
+   <elementGuidId>a7be7926-6a4b-4cac-9195-1581f3d6a30a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='boundlist-1144-listEl']/li[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.x-combo-list-item.x-mcombo-item-unchecked</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2c1981bc-34b2-43bf-af37-fee8a9ed1186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-combo-list-item x-mcombo-item-unchecked</value>
+      <webElementGuid>357cc369-c3e9-4247-a029-0c0079a8bca0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Getnet</value>
+      <webElementGuid>1716f0d6-41c9-4a4d-8ffa-265ded1a9baa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boundlist-1144-listEl&quot;)/li[@class=&quot;x-boundlist-item x-boundlist-item-over&quot;]/div[@class=&quot;x-combo-list-item x-mcombo-item-unchecked&quot;]</value>
+      <webElementGuid>676a9788-0b9a-4f23-86f4-5f7fe19062c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Administrador/iframe_Agregar Remate_WIN_Agregar_IFrame</value>
+      <webElementGuid>08190671-4e4b-4b21-a6cb-9d929c7b6204</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='boundlist-1144-listEl']/li[2]/div</value>
+      <webElementGuid>dd2a8394-676a-4236-b91b-a22b9a72062b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Linkify'])[1]/following::div[1]</value>
+      <webElementGuid>f4314d61-29c5-4ae5-9651-93763e5ee329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guardar'])[1]/following::div[22]</value>
+      <webElementGuid>c562c594-f7b3-479f-bdb5-b97b1c36b4e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transferencia'])[1]/preceding::div[2]</value>
+      <webElementGuid>de712fa7-aa5b-490c-af85-7cdb1e914aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div</value>
+      <webElementGuid>a5de58e2-6bdf-4b73-8410-bbe39a28f021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Getnet' or . = 'Getnet')]</value>
+      <webElementGuid>3a4c4ca9-dfb4-445e-aa02-f3d71bc07959</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

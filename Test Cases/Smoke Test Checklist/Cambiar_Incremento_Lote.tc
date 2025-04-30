@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cambiar_Incremento_Lote</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fc3d79f4-2abd-4b55-b7b7-89806de46b47</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d2162abb-a003-4ff6-b14e-5599eac310a2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eacdd009-8f14-4b46-8ba5-d32a67a237fb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'jmonardes'</defaultValue>
+      <description></description>
+      <id>d2162abb-a003-4ff6-b14e-5599eac310a2</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>'BKBnoERvCkg='</defaultValue>
+      <description></description>
+      <id>eacdd009-8f14-4b46-8ba5-d32a67a237fb</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

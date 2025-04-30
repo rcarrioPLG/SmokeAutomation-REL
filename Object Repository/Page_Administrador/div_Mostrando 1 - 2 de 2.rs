@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mostrando 1 - 2 de 2</name>
+   <tag></tag>
+   <elementGuidId>c139dad5-6a50-46f8-8ad1-aadb8dee1bc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tbtext-1121</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tbtext-1121']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc59b720-884b-473f-b338-3febebbd34f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-toolbar-text x-box-item x-toolbar-item x-toolbar-text-default</value>
+      <webElementGuid>6d1fb2be-1d87-4a60-ba28-452786e63d2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tbtext-1121</value>
+      <webElementGuid>ac849c9e-c644-455e-99c2-9b51b3af3d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mostrando 1 - 2 de 2</value>
+      <webElementGuid>a0e0fce3-d45b-4b13-8549-eed05d8d0b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbtext-1121&quot;)</value>
+      <webElementGuid>0b8378eb-a36c-4f2f-9e27-420cf90972f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Administrador/iframe_Nmina Remates_WIN_Lotes2555_IFrame</value>
+      <webElementGuid>63ca4aea-1227-42a4-876b-056466065400</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='tbtext-1121']</value>
+      <webElementGuid>8f9cc84a-578b-48f7-930f-c33ae7ef43f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pg_grilla-targetEl']/div[9]</value>
+      <webElementGuid>1fb5e5b7-18aa-4179-a906-2f150c8a37cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='de 1'])[1]/following::div[11]</value>
+      <webElementGuid>0c0b6506-d99a-4112-85e2-f2e8bb3bcae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Página'])[1]/following::div[21]</value>
+      <webElementGuid>1a05fac5-4f2d-44ce-a02c-917b7df382cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Carga Masiva'])[1]/preceding::div[11]</value>
+      <webElementGuid>787d05be-0ed8-43c2-9f66-717592a4bdc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Carga Masiva Manual'])[2]/preceding::div[37]</value>
+      <webElementGuid>d5561b5d-4c1c-4430-a0df-b70af51f29f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mostrando 1 - 2 de 2']/parent::*</value>
+      <webElementGuid>a38c9698-7b86-4daf-89ba-11f7fd0c1aea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[9]</value>
+      <webElementGuid>225b241b-9413-4b6b-9d19-9fb02e038dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'tbtext-1121' and (text() = 'Mostrando 1 - 2 de 2' or . = 'Mostrando 1 - 2 de 2')]</value>
+      <webElementGuid>96c2fe17-5c36-4ffa-a5cc-5eaacde9d106</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
